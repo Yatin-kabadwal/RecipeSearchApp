@@ -23,10 +23,6 @@ AdvertisementsMonetized through Google AdMob for sustainable development.
 <img src="https://github.com/user-attachments/assets/1ed50b0c-6c4e-4a5e-a5a4-9a5d8ffda4cc" alt="Img 2025-01-18 222914" width="200"/>
 
 
-
-
-
-
 ## 🔧 Tech Stack
 
 **Language**: Kotlin
